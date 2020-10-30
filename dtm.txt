@@ -1,12 +1,12 @@
-Olá mundo!
-#################################ARQUIVO GERADO PARA PROPÓSITO DE TESTE########################################################
+OlÃ¡ mundo!
+#################################ARQUIVO GERADO PARA PROPÃ“SITO DE TESTE########################################################
 Dominios monitorados:
 elksec.net
 dgomesec@elksec.net
 test.io
 test.com.br
 
-Dominios Monitorados (variações de nome, permutações de chars (punnycode & homoglyph) e typosquatting):
+Dominios Monitorados (variaÃ§Ãµes de nome, permutaÃ§Ãµes de chars (punnycode & homoglyph) e typosquatting):
 lksec.net
 eksec.net
 elsec.net
@@ -19,4 +19,24 @@ elkwec.net
 elkswc.net
 elkssc.net
 xn--lksec-msa.net
-ëlksec.net
+Ã«lksec.net
+triadesgsi.com
+riadesgsi.com.com
+tiadesgsi.com.com
+tradesgsi.com.com
+tridesgsi.com.com
+triaesgsi.com.com
+triadsgsi.com.com
+triadegsi.com.com
+triadessi.com.com
+triadesgi.com.com
+triadesgs.com.com
+triadesgsicom.com
+triadesgsi.om.com
+triadesgsi.cm.com
+triadesgsi.co.com
+rriadesgsi.com.com
+friadesgsi.com.com
+griadesgsi.com.com
+hriadesgsi.com.com
+yriadesgsi.com.com
