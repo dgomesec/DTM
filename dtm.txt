@@ -1,0 +1,22 @@
+Olá mundo!
+#################################ARQUIVO GERADO PARA PROPÓSITO DE TESTE########################################################
+Dominios monitorados:
+elksec.net
+dgomesec@elksec.net
+test.io
+test.com.br
+
+Dominios Monitorados (variações de nome, permutações de chars (punnycode & homoglyph) e typosquatting):
+lksec.net
+eksec.net
+elsec.net
+elkec.net
+eljsec.net
+elkxec.net
+elkdec.net
+elkeec.net
+elkwec.net
+elkswc.net
+elkssc.net
+xn--lksec-msa.net
+ëlksec.net
